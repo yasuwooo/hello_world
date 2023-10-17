@@ -10,3 +10,4 @@
 1. ぶり
 2. ぶりぶり
 3. ぶりぶりぶり
+ New line added by a local environment.
